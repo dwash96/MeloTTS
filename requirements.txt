@@ -3,7 +3,7 @@ torch
 torchaudio
 cached_path
 transformers
-mecab-python3==1.0.5
+mecab-python3
 num2words==0.5.12
 unidic_lite==1.0.8
 unidic==1.1.0
